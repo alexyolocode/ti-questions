@@ -1,6 +1,7 @@
 # Key terms
 ## Skill
-### Definition - A skill, particularly in the context of technology (such as Python or AWS), refers to the ability to perform tasks, solve problems, and create solutions using specific tools, languages, platforms, or methodologies.
+### Definition
+A skill, particularly in the context of technology (such as Python or AWS), refers to the ability to perform tasks, solve problems, and create solutions using specific tools, languages, platforms, or methodologies.
 
 ### What of skill consist? 
 A skill typically comprises several components:  
