@@ -1,82 +1,46 @@
 
-# Cybersecurity Curricula, Frameworks, and Standards
-## 1. ECSO Minimum Reference Curriculum  
+# Competence-centric Frameworks
+## ECSO MRC
+Full name: ECSO Minimum Reference Curriculum
 Author: The European Cyber Security Organisation (ECSO)  
 Release Date: 2022  
 Link: [ECSO Minimum Reference Curriculum (PDF)](https://ecs-org.eu/ecso-uploads/2022/12/2022_SWG5.2_Minimum_Reference_Curriculum_final_v3.0.pdf)  
 
-Structure:  
-- 4 Competence clusters (similar to Knowledge Area, but broader).  
-- 17 Subjects (similar to Domain of Study, but broader; includes Topics, Learning Outcomes, Examples of Roles, Certifications).  
+Structure:
+- 4 Competence clusters.  
+- 17 Subjects.
 
-## 2. CSEC2017  
+Key observations: Decomposition of Subjects to Topics, Learning Outcomes, Roles, Certifications.
+
+Structure mapping:
+- 17 Competence.
+- Topics - true.
+
+## CSEC2017
+Full name: Cybersecurity Curricular Guidelines | CSEC 2017
 Author: ACM, IEEE-CS, AIS SIGSEC, IFIP WG 11.8  
 Release Date: 2017  
 Link: [CSEC2017 Curriculum (PDF)](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/csec2017.pdf)  
 
 Structure:  
 - 8 Knowledge Areas.  
-- 54 Knowledge Units (similar to Domain of Study; includes Topics and Concepts).  
+- 54 Knowledge Units.
 
-## 3. CyberSec4Europe - Curricula Frameworks  
-Author: CyberSec4Europe  
-Release Date: 2022  
-Link: [CyberSec4Europe Curricula Frameworks (PDF)](https://cybersec4europe.eu/wp-content/uploads/2022/07/D6.6-Final-Educational-and-Assessment-Framework_submitted.pdf)  
+Key observations: 
+- Decomposition of Knowledge Units to Topics and Concepts. 
+- Mapping of Knowledge Areas to Essentials (Topics/Concepts) and Learnign Outcomes.
 
-Short review: A derivative of CSEC2017.  
+Structure mapping:
+- 54 Competence.
+- Topics - true.
 
-Structure:  
-- 9 Knowledge Areas.  
-- 55 Knowledge Units (similar to Domain of Study).  
 
-## 4. JRC  
-Author: Joint Research Centre - European Commission  
-Release Date: 2019  
-Link: [JRC Cybersecurity Taxonomy (PDF)](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC118089/taxonomy-v2.pdf)  
-
-Structure:  
-- 15 Cybersecurity domains (between Domain of Study and Knowledge Area).  
-- 150 Subdomains (similar to Topics).  
-
-## 5. CyBOK (Cybersecurity Body of Knowledge)  
-Author: National Cyber Security Centre UK  
-Release Date: 2021  
-Link: [CyBOK Website](https://www.cybok.org/)  
-
-Short review: A detailed and comprehensive source of cybersecurity knowledge.  
-
-Structure:  
-- 19 Knowledge Areas (similar to Domain of Study).  
-- 121 Topics.  
-
-## 6. Skills Framework for the Information Age (SFIA)  
-Author: SFIA Foundation  
-Release Date: 2024  
-Link: [SFIA Framework - Cybersecurity View](https://sfia-online.org/en/tools-and-resources/en/sfia-9/sfia-views/information-and-cyber-security/?path=/glance)  
-
-Short review: Includes IT and professional skills beyond cybersecurity.  
-
-Structure:  
-- 6 Categories (similar to Knowledge Area).  
-- 19 Subcategories (more granular than Knowledge Area).  
-- 121 Skills (similar to Domain of Study).  
-- 7 Levels of Responsibility (similar to Learning Outcomes).  
-
-## 7. e-Competence Framework (e-CF)  
-Author: European Committee for Standardization (CEN)  
-Release Date: 2019  
-Link: [e-CF Explorer](https://ecfexplorer.itprofessionalism.org)  
-
-Structure:  
-- 41 Competences.  
-- 30 ICT Professional Role Profiles.  
-
-## 8. European Cybersecurity Skills Framework (ECSF)  
+# Role-centric Frameworks
+## ECSF
+Full name: European Cybersecurity Skills Framework
 Author: ENISA  
 Release Date: 2022  
 Link: [ECSF Overview](https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf)  
-
-Short review: Builds on the e-CF to emphasize cybersecurity-specific knowledge.  
 
 Structure:  
 - 12 Job Profiles, consisting of:  
@@ -86,7 +50,15 @@ Structure:
   - Key knowledges.  
   - e-Competences.  
 
-## 9. NICE Cybersecurity Workforce Framework  
+Key observations: 
+- Has refferences to e-CF
+ 
+Structure mapping: 
+- 12 Roles
+- 275 KSA
+
+## NICE
+Full name: NICE Workforce Framework for Cybersecurity
 Author: NIST (National Institute of Standards and Technology)  
 Release Date: 2020  
 Link: [NICE Cybersecurity Workforce Framework](https://niccs.cisa.gov/workforce-development/nice-framework)  
@@ -97,3 +69,98 @@ Structure:
 - More than 1,000 Knowledge, Skills, and Abilities (KSAs).  
 - 1,290 Tasks.  
 - 54 Competencies.  
+
+Key observations: 
+- The mose detaile
+
+Structure mapping: 
+- 52 Roles
+- 2280 KSA
+
+## European Cybersecurity Taxonomy
+Author: Joint Research Centre - European Commission  
+Release Date: 2019  
+Link: [JRC Cybersecurity Taxonomy (PDF)](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC118089/taxonomy-v2.pdf)  
+
+Structure:  
+- 15 Cybersecurity domains.
+- 150 Subdomains.
+
+Key observations: 
+- Decomposition of Cybersecurity domains to Topics and Concepts. 
+- No potential use.
+
+Structure mapping:
+- 15 Competence.
+- Topics - true.
+
+## CyberSec4Europe - Curricula Frameworks
+Author: CyberSec4Europe  
+Release Date: 2022  
+Link: [CyberSec4Europe Curricula Frameworks (PDF)](https://cybersec4europe.eu/wp-content/uploads/2022/07/D6.6-Final-Educational-and-Assessment-Framework_submitted.pdf)  
+
+Structure:  
+- 9 Knowledge Areas.  
+- 55 Knowledge Units.  
+
+Key observations: 
+- A derivative of CSEC2017. 
+- No potential use.
+
+Structure mapping:
+- 55 Competence
+
+
+# Knowledgebase
+## CyBOK
+Type: Knowledgebase
+Author: National Cyber Security Centre UK  
+Release Date: 2021  
+Link: [CyBOK Website](https://www.cybok.org/)  
+
+Structure:  
+- 19 Knowledge Areas.  
+- 121 Topics.
+
+Key observations: 
+- Source of content.
+
+
+# Not Cybersecurity
+## e-CF
+Type: Role Framework
+Author: European Committee for Standardization (CEN)  
+Release Date: 2019  
+Link: [e-CF Explorer](https://ecfexplorer.itprofessionalism.org)  
+
+Structure:  
+- 41 Competences.  
+- 30 Roles.  
+
+Key observations: 
+- Less dedicated to Cybersecurity.
+- Includes level of Responsibility.
+- No potential use.
+
+Structure mapping: 
+- 30 Roles
+
+## Skills Framework for the Information Age (SFIA)
+Author: SFIA Foundation  
+Release Date: 2024  
+Link: [SFIA Framework - Cybersecurity View](https://sfia-online.org/en/tools-and-resources/en/sfia-9/sfia-views/information-and-cyber-security/?path=/glance)  
+
+Structure:  
+- 6 Categories.
+- 19 Subcategories.
+- 121 Skills.
+- 7 Levels of Responsibility.
+
+Key observations: 
+- Less dedicated to Cybersecurity.
+- Includes level of Responsibility.
+- No potential use.
+
+Structure mapping: 
+- 75 Competence
+ 
