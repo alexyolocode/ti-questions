@@ -49,7 +49,27 @@ Structure mapping:
 - Topics - true.
 
 
-# Role-centric Frameworks
+## iCD
+Full name: 
+Author: Information-technology Promotion Agency, Japan(IPA)
+Release Date: 2020
+Link: [i Competency Dictionary](https://www.ipa.go.jp/en/it-talents/skill-standard/icd.html)  
+
+Structure:  
+- Skill List
+- Job List
+- Skill Proficency Criteria
+
+Key observations: 
+- Higly detailed
+- Has proficcency levels
+
+
+Structure mapping:
+- Compentences
+- Roles
+
+# Role-centric Frameworksi Competency Dictionary
 ## ECSF
 Full name: European Cybersecurity Skills Framework
 Author: ENISA  
@@ -78,14 +98,14 @@ Release Date: 2020
 Link: [NICE Cybersecurity Workforce Framework](https://niccs.cisa.gov/workforce-development/nice-framework)  
 
 Structure:  
-- 7 Categories of cybersecurity functions.  
+- 7 Categories of Cybersecurity Functions.  
 - 52 Cybersecurity Work Roles.  
 - More than 1,000 Knowledge, Skills, and Abilities (KSAs).  
 - 1,290 Tasks.  
 - 54 Competencies.  
 
 Key observations: 
-- The mose detaile
+- The mose detailed then other
 
 Structure mapping: 
 - 52 Roles
