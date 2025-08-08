@@ -20,17 +20,21 @@
 
 ### ECSO MRC
 
-Full name: ECSO Minimum Reference Curriculum
-Author: The European Cyber Security Organisation (ECSO)
-Release Date: 2022
-Link: [ECSO Minimum Reference Curriculum (PDF)](https://ecs-org.eu/ecso-uploads/2022/12/2022-SWG5.2-Minimum-Reference-Curriculum-final-v3.0.pdf)  
+Full name: ECSO Minimum Reference Curriculum. 
+Author: The European Cyber Security Organisation (ECSO). 
+Release Date: 2022. 
+Link: [ECSO Minimum Reference Curriculum (PDF)](https://ecs-org.eu/ecso-uploads/2022/12/2022-SWG5.2-Minimum-Reference-Curriculum-final-v3.0.pdf). 
 
 Structure:
 
 - 4 Competence clusters.
 - 17 Subjects.
 
-Key observations: Decomposition of Subjects to Topics, Learning Outcomes, Roles, Certifications.
+Key observations:
+- Decomposition of Subjects to Topics. 
+- Learning Outcomes. 
+- Roles. 
+- Certifications.
 
 Structure mapping:
 
@@ -39,10 +43,10 @@ Structure mapping:
 
 ### CSEC2017
 
-Full name: Cybersecurity Curricular Guidelines | CSEC 2017
-Author: ACM, IEEE-CS, AIS SIGSEC, IFIP WG 11.8  
-Release Date: 2017  
-Link: [CSEC2017 Curriculum (PDF)](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/csec2017.pdf)  
+Full name: Cybersecurity Curricular Guidelines | CSEC 2017. 
+Author: ACM, IEEE-CS, AIS SIGSEC, IFIP WG 11.8. 
+Release Date: 2017. 
+Link: [CSEC2017 Curriculum (PDF)](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/csec2017.pdf). 
 
 Structure:
 
