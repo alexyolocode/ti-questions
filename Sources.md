@@ -20,54 +20,55 @@
 
 ### ECSO MRC
 
-Full name: ECSO Minimum Reference Curriculum. 
-Author: The European Cyber Security Organisation (ECSO). 
-Release Date: 2022. 
-Link: [ECSO Minimum Reference Curriculum (PDF)](https://ecs-org.eu/ecso-uploads/2022/12/2022-SWG5.2-Minimum-Reference-Curriculum-final-v3.0.pdf). 
+Full name: ECSO Minimum Reference Curriculum  
+Author: The European Cyber Security Organisation (ECSO)  
+Release Date: 2022  
+Link: [ECSO Minimum Reference Curriculum (PDF)](https://ecs-org.eu/ecso-uploads/2022/12/2022-SWG5.2-Minimum-Reference-Curriculum-final-v3.0.pdf)  
 
 Structure:
 
-- 4 Competence clusters.
-- 17 Subjects.
+- 4 Competence clusters
+- 17 Subjects
 
 Key observations:
-- Decomposition of Subjects to Topics. 
-- Learning Outcomes. 
-- Roles. 
-- Certifications.
+
+- Decomposition of Subjects to Topics
+- Learning Outcomes
+- Roles
+- Certifications
 
 Structure mapping:
 
-- 17 Competence.
-- Topics - true.
+- 17 Competence
+- Topics - true
 
 ### CSEC2017
 
-Full name: Cybersecurity Curricular Guidelines | CSEC 2017. 
-Author: ACM, IEEE-CS, AIS SIGSEC, IFIP WG 11.8. 
-Release Date: 2017. 
-Link: [CSEC2017 Curriculum (PDF)](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/csec2017.pdf). 
+Full name: Cybersecurity Curricular Guidelines | CSEC 2017  
+Author: ACM, IEEE-CS, AIS SIGSEC, IFIP WG 11.8  
+Release Date: 2017  
+Link: [CSEC2017 Curriculum (PDF)](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/csec2017.pdf)  
 
 Structure:
 
-- 8 Knowledge Areas.
-- 54 Knowledge Units.
+- 8 Knowledge Areas
+- 54 Knowledge Units
 
 Key observations:
 
-- Decomposition of Knowledge Units to Topics and Concepts.
-- Mapping of Knowledge Areas to Essentials (Topics/Concepts) and Learnign Outcomes.
+- Decomposition of Knowledge Units to Topics and Concepts  
+- Mapping of Knowledge Areas to Essentials (Topics/Concepts) and Learnign Outcomes  
 
 Structure mapping:
 
-- 54 Competence.
-- Topics - true.
+- 54 Competence
+- Topics - true
 
 ### iCD
 
-Full name:
-Author: Information-technology Promotion Agency, Japan(IPA)
-Release Date: 2020
+Full name: i Competency Dictionary  
+Author: Information-technology Promotion Agency, Japan(IPA)  
+Release Date: 2020  
 Link: [i Competency Dictionary](https://www.ipa.go.jp/en/it-talents/skill-standard/icd.html)  
 
 Structure:
@@ -88,10 +89,10 @@ Structure mapping:
 
 ### CIISec
 
-Full name: CIISec Skills Framework
-Author: Chartered Institute of Information Security a Royal Charter of Incorporation at the Privy Council
-Release Date: 2024
-Link: [Capability methodology - Skills Framework](https://www.ciisec.org/frameworks/skills-framework/)
+Full name: CIISec Skills Framework  
+Author: Chartered Institute of Information Security a Royal Charter of Incorporation at the Privy Council  
+Release Date: 2024  
+Link: [Capability methodology - Skills Framework](https://www.ciisec.org/frameworks/skills-framework/)  
 
 Structure:
 
@@ -106,7 +107,7 @@ Key observations:
 Structure mapping:
 
 - 39 Compentences
-- Topics - true.
+- Topics - true
 
 ## Role-centric Frameworksi Competency Dictionary
 
@@ -222,21 +223,21 @@ Key observations:
 
 ### e-CF
 
-Type: Role Framework
+Type: Role Framework  
 Author: European Committee for Standardization (CEN)  
 Release Date: 2019  
 Link: [e-CF Explorer](https://ecfexplorer.itprofessionalism.org)  
 
 Structure:
 
-- 41 Competences.
-- 30 Roles.  
+- 41 Competences
+- 30 Roles
 
 Key observations:
 
-- Less dedicated to Cybersecurity.
-- Includes level of Responsibility.
-- No potential use.
+- Less dedicated to Cybersecurity
+- Includes level of Responsibility
+- No potential use
 
 Structure mapping:
 
@@ -250,16 +251,16 @@ Link: [SFIA Framework - Cybersecurity View](https://sfia-online.org/en/tools-and
 
 Structure:
 
-- 6 Categories.
-- 19 Subcategories.
-- 121 Skills.
-- 7 Levels of Responsibility.
+- 6 Categories
+- 19 Subcategories
+- 121 Skills
+- 7 Levels of Responsibility
 
 Key observations:
 
-- Less dedicated to Cybersecurity.
-- Includes level of Responsibility.
-- No potential use.
+- Less dedicated to Cybersecurity
+- Includes level of Responsibility
+- No potential use
 
 Structure mapping:
 
