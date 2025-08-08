@@ -79,7 +79,7 @@ Structure:
 
 Key observations:
 
-- Higly detailed
+- Highly detailed
 - Has proficcency levels
 
 Structure mapping:
