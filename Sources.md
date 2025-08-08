@@ -21,8 +21,8 @@
 ### ECSO MRC
 
 Full name: ECSO Minimum Reference Curriculum
-Author: The European Cyber Security Organisation (ECSO)  
-Release Date: 2022  
+Author: The European Cyber Security Organisation (ECSO)
+Release Date: 2022
 Link: [ECSO Minimum Reference Curriculum (PDF)](https://ecs-org.eu/ecso-uploads/2022/12/2022-SWG5.2-Minimum-Reference-Curriculum-final-v3.0.pdf)  
 
 Structure:
@@ -87,7 +87,7 @@ Structure mapping:
 Full name: CIISec Skills Framework
 Author: Chartered Institute of Information Security a Royal Charter of Incorporation at the Privy Council
 Release Date: 2024
-Link: [Capability methodology - Skills Framework](https://www.ciisec.org/frameworks/skills-framework/)  
+Link: [Capability methodology - Skills Framework](https://www.ciisec.org/frameworks/skills-framework/)
 
 Structure:
 
