@@ -3,6 +3,8 @@
 1. [Competence-centric Frameworks](#competence-centric-frameworks)
    - [ECSO MRC](#ecso-mrc)
    - [CSEC2017](#csec2017)
+   - [iCD](#icd)
+   - [CIISec](#ciisec)
 2. [Role-centric Frameworks](#role-centric-frameworksi-competency-dictionary)
    - [ECSF](#ecsf)
    - [NICE](#nice)
